@@ -1,85 +1,33 @@
-<h1 align="center">Vitor Luna</h1>
+<div align="left">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Back-end+Developer;Python+%7C+Django+%7C+FastAPI;Building+scalable+systems" alt="Typing SVG" />
-</p>
+# Vitor Luna
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vitor-luna-">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/vit0rluna">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+Olá, meu nome é Vitor, sou estudante de Engenharia de Software na [UniEVANGÉLICA](https://www.unievangelica.edu.br/), em Anápolis, Goiás. Estou começando minha jornada na programação, estudando **Python** e **Django**, e construindo uma base sólida em lógica, cálculo e infraestrutura computacional. Não estou interessado em código perfeito, estou interessado em **evoluir um commit por vez**.
 
----
+Atualmente desenvolvo, junto com meu grupo, o **[PrintFlow](https://github.com/VitorLun4/PrintFlow)**, um sistema de gestão para pequenos negócios de impressão 3D, feito em Python e Django como Projeto Integrador da faculdade.
 
-## About me
+Compartilho meus estudos no [LinkedIn](https://www.linkedin.com/in/vitor-luna-/) e no [Instagram](https://instagram.com/https:/vit0rluna/).
 
-Software Engineering student passionate about building scalable systems.
 
-- Back-end developer focused on **Python, Django and FastAPI**
-- Working with relational databases: **PostgreSQL** and **MySQL**
-- Interested in containers, Linux and clean, maintainable architecture
-- English level: **B1/B2 (Intermediate)**
+![FOLLOW](https://img.shields.io/github/followers/VitorLun4?style=for-the-badge&logo=github&label=FOLLOW&labelColor=black&color=black)
+![STARS](https://img.shields.io/github/stars/VitorLun4?style=for-the-badge&logo=github&label=STARS&labelColor=black&color=black)
 
----
+### Estudando agora
 
-## Tech Stack
+Python 3, Django, Git e GitHub, linguagem C.
 
-<h3 align="center">Languages</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
-</p>
+### Technologies and tools
 
-<h3 align="center">Frameworks</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-</p>
+![PYTHON](https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python&logoColor=white)
+![DJANGO](https://img.shields.io/badge/DJANGO-black?style=for-the-badge&logo=django&logoColor=white)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white)
 
-<h3 align="center">Databases</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
 
-<h3 align="center">Tools & DevOps</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
+### Socials
 
----
+[![LinkedIn](https://img.shields.io/badge/Vitor_Luna-black?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/vitor-luna-/)
+[![Instagram](https://img.shields.io/badge/Vit0rLuna-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vit0rluna/)
 
-## Featured Project
-
-### [PrintFlow](https://github.com/VitorLun4/PrintFlow)
-
-Inventory, cost and pricing management for small 3D printing businesses.
-Integrated project developed at UniEVANGÉLICA.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VitorLun4&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLun4&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
-## Currently
-
-- Building projects with Django and FastAPI
-- Studying software architecture and best practices
-- Open to collaborations and learning opportunities
+</div>
